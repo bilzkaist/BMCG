@@ -1,5 +1,4 @@
 # BMCG
-Blockchain Multiplayer Chess Game
 
 ## Blockchain Multiplayer Chess Game
 
@@ -43,7 +42,6 @@ The Blockchain Multiplayer Chess Game is a decentralized application (DApp) that
 - Set up the backend server to handle authentication and game room management.
 - Establish real-time updates between players and game sessions
 
-.
 
 **Phase 5: Testing and Quality Assurance**
 - Conduct thorough testing of smart contracts, front-end components, and overall functionality.
